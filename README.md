@@ -12,7 +12,7 @@ A simple task management web application that allows users to add, complete, and
 ## 📸 Screenshots
 
 ### To-do list app
-![To-do list](./Screenshots/to-do list view.png)
+![To-do list](./Screenshots/app_view.png)
 
 ## 🛠️ Tech Stack
 
