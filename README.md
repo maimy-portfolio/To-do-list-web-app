@@ -1,6 +1,7 @@
 # 📝 To-Do List Web App
 
-A simple task management web application that allows users to add, complete, and delete tasks in a dynamic to-do list.
+This is a simple to-do list web application built while following a tutorial by [GreatStack](https://youtu.be/G0jO8kUrg-I?si=Y_hIAPIurpj2oJak).  
+It was one of the first projects I created when learning JavaScript and DOM manipulation. I learned how tasks can be added, marked complete, and deleted dynamically.
 
 ## 🚀 Features
 
